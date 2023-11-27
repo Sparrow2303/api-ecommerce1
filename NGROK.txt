@@ -1,0 +1,1 @@
+Profe el ngrok se debe actualizar para que los links de los codigos funcionen correcatmente
